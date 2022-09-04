@@ -24,9 +24,10 @@
   - [Bundler](#bundler)
   - [ReactJs](#reactjs)
   - [Redux](#redux)
+  - [Other Modules](#other-modules-2)
+- [UI Libraries](#ui-libraries)
   - [UI Component Libraries](#ui-component-libraries)
   - [CSS Frameworks](#css-frameworks)
-  - [Other Modules](#other-modules-2)
 
 # Web Dev Fundamentals
 
@@ -201,7 +202,7 @@
 
 - [parcel](https://parceljs.org/)
 
-## ReactJs
+## [ReactJs](https://reactjs.org/)
 
 - [Docs](https://reactjs.org/docs/getting-started.html)
 
@@ -210,11 +211,8 @@
 - Modules
 
   - [`create-react-app`](https://create-react-app.dev/)
-
   - [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
-
   - [React Router](https://reactrouter.com/)
-
   - [Storybook](https://storybook.js.org/)
 
 - Important Concepts
@@ -239,6 +237,18 @@
 
 - [React Redux](https://react-redux.js.org/)
 
+## Other Modules
+
+| Module                                       | Functionality      |
+| -------------------------------------------- | ------------------ |
+| [axios](https://axios-http.com/docs/intro)   | http client        |
+| [faker.js](https://fakerjs.dev/)             | Placeholder data   |
+| [serve](https://www.npmjs.com/package/serve) | serve static files |
+
+# UI Libraries
+
+- [Resources - bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
+
 ## UI Component Libraries
 
 - [Material UI](https://mui.com/)
@@ -254,11 +264,3 @@
   - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 
   - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
-
-## Other Modules
-
-| Module                                       | Functionality      |
-| -------------------------------------------- | ------------------ |
-| [axios](https://axios-http.com/docs/intro)   | http client        |
-| [faker.js](https://fakerjs.dev/)             | Placeholder data   |
-| [serve](https://www.npmjs.com/package/serve) | serve static files |
