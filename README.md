@@ -10,19 +10,21 @@
   - [CSS](#css)
 - [Node Modules](#node-modules)
   - [Package Managers](#package-managers)
-  - [Linting & Formatting](#linting--formatting)
+  - [Linting \& Formatting](#linting--formatting)
   - [Other Modules](#other-modules)
-- [Backend Modules](#backend-modules)
+- [Backend Frameworks](#backend-frameworks)
   - [Express JS](#express-js)
+- [Backend Modules](#backend-modules)
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
   - [Authentication](#authentication)
   - [Testing](#testing)
   - [Other Modules](#other-modules-1)
+- [Frontend Frameworks](#frontend-frameworks)
+  - [ReactJs](#reactjs)
 - [Frontend Modules](#frontend-modules)
   - [Content Delivery](#content-delivery)
   - [Bundler](#bundler)
-  - [ReactJs](#reactjs)
   - [Redux](#redux)
   - [Other Modules](#other-modules-2)
 - [UI Libraries](#ui-libraries)
@@ -126,7 +128,7 @@
 | [babel](https://babeljs.io/) | Transpiling   |
 | loadsh                       |               |
 
-# Backend Modules
+# Backend Frameworks
 
 ## [Express JS](https://expressjs.com/)
 
@@ -141,6 +143,8 @@
 - [`express-generator`](https://expressjs.com/en/starter/generator.html)
 
 - [Node.js and Express.js Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
+
+# Backend Modules
 
 ## Template Engines
 
@@ -190,17 +194,7 @@
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
 
-# Frontend Modules
-
-## Content Delivery
-
-- [cdnjs](https://cdnjs.com/)
-
-## Bundler
-
-- [webpack](https://webpack.js.org/)
-
-- [parcel](https://parceljs.org/)
+# Frontend Frameworks
 
 ## [ReactJs](https://reactjs.org/)
 
@@ -229,9 +223,19 @@
 
 - [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
-## Redux
+# Frontend Modules
 
-- [Redux](https://redux.js.org/)
+## Content Delivery
+
+- [cdnjs](https://cdnjs.com/)
+
+## Bundler
+
+- [webpack](https://webpack.js.org/)
+
+- [parcel](https://parceljs.org/)
+
+## [Redux](https://redux.js.org/)
 
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 
