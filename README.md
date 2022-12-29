@@ -22,10 +22,10 @@
   - [Other Modules](#other-modules-1)
 - [Frontend Frameworks](#frontend-frameworks)
   - [ReactJs](#reactjs)
+  - [Redux](#redux)
 - [Frontend Modules](#frontend-modules)
   - [Content Delivery](#content-delivery)
   - [Bundler](#bundler)
-  - [Redux](#redux)
   - [Other Modules](#other-modules-2)
 - [UI Libraries](#ui-libraries)
   - [UI Component Libraries](#ui-component-libraries)
@@ -223,6 +223,15 @@
 
 - [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
+
+## [Redux](https://redux.js.org/)
+
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+
+- [React Redux](https://react-redux.js.org/)
+
+- [Redux Form](https://redux-form.com/8.3.0/docs/gettingstarted.md/)
+
 # Frontend Modules
 
 ## Content Delivery
@@ -235,11 +244,6 @@
 
 - [parcel](https://parceljs.org/)
 
-## [Redux](https://redux.js.org/)
-
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-
-- [React Redux](https://react-redux.js.org/)
 
 ## Other Modules
 
