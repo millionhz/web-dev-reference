@@ -202,13 +202,6 @@
 
 - [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
-- Modules
-
-  - [`create-react-app`](https://create-react-app.dev/)
-  - [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
-  - [React Router](https://reactrouter.com/)
-  - [Storybook](https://storybook.js.org/)
-
 - Important Concepts
 
   - Functional & Class Components
@@ -221,6 +214,14 @@
   - Debouncing
   - `dangerouslySetInnerHTML` & XSS Attacks
 
+- Modules
+
+  - [`create-react-app`](https://create-react-app.dev/)
+  - [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
+  - [React Router](https://reactrouter.com/)
+  - [Storybook](https://storybook.js.org/)
+  - [React Final Form](https://final-form.org/react)
+
 - [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
 
@@ -229,8 +230,6 @@
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 
 - [React Redux](https://react-redux.js.org/)
-
-- [Redux Form](https://redux-form.com/8.3.0/docs/gettingstarted.md/)
 
 # Frontend Modules
 
@@ -244,12 +243,15 @@
 
 - [parcel](https://parceljs.org/)
 
+- [vite](https://vitejs.dev/)
 
 ## Other Modules
 
 | Module                                       | Functionality      |
 | -------------------------------------------- | ------------------ |
 | [axios](https://axios-http.com/docs/intro)   | http client        |
+| [lodash](https://lodash.com/docs/4.17.15)    | utility functions  |
+| [final form](https://final-form.org)         | form utility       |
 | [faker.js](https://fakerjs.dev/)             | Placeholder data   |
 | [serve](https://www.npmjs.com/package/serve) | serve static files |
 
