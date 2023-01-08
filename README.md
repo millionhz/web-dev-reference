@@ -8,7 +8,7 @@
   - [Events](#events)
   - [Web APIs](#web-apis)
   - [CSS](#css)
-- [Node Modules](#node-modules)
+- [General Node Modules](#general-node-modules)
   - [Package Managers](#package-managers)
   - [Linting \& Formatting](#linting--formatting)
   - [Other Modules](#other-modules)
@@ -101,7 +101,7 @@
 
 - [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-# Node Modules
+# General Node Modules
 
 ## Package Managers
 
