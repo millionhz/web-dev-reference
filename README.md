@@ -8,6 +8,8 @@
   - [Events](#events)
   - [Web APIs](#web-apis)
   - [CSS](#css)
+- [Web Technologies](#web-technologies)
+  - [Firebase](#firebase)
 - [General Node Modules](#general-node-modules)
   - [Package Managers](#package-managers)
   - [Linting \& Formatting](#linting--formatting)
@@ -30,6 +32,7 @@
 - [UI Libraries](#ui-libraries)
   - [UI Component Libraries](#ui-component-libraries)
   - [CSS Frameworks](#css-frameworks)
+- [Other Stuff](#other-stuff)
 
 # Web Dev Fundamentals
 
@@ -100,6 +103,11 @@
 - [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 - [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+# Web Technologies
+
+## Firebase
+
 
 # General Node Modules
 
@@ -274,3 +282,7 @@
   - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 
   - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
+
+# Other Stuff
+
+- [Rendering Patterns - fireship](https://www.youtube.com/watch?v=Dkx5ydvtpCA)
