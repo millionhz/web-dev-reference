@@ -126,6 +126,8 @@
 
 - [`tsconfig`](https://www.typescriptlang.org/tsconfig)
 
+- [Learn TypeScript – Full Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)
+
 # Technologies
 
 ## Firebase
