@@ -1,14 +1,18 @@
 # Web Dev Reference
 
 - [Web Dev Reference](#web-dev-reference)
-- [Web Dev Fundamentals](#web-dev-fundamentals)
+- [Fundamentals](#fundamentals)
   - [HTTP](#http)
   - [HTML](#html)
   - [DOM](#dom)
   - [Events](#events)
   - [Web APIs](#web-apis)
   - [CSS](#css)
-- [Web Technologies](#web-technologies)
+- [Programming Languages](#programming-languages)
+  - [Javascript](#javascript)
+  - [Node](#node)
+  - [Typescript](#typescript)
+- [Technologies](#technologies)
   - [Firebase](#firebase)
 - [General Node Modules](#general-node-modules)
   - [Package Managers](#package-managers)
@@ -34,7 +38,7 @@
   - [CSS Frameworks](#css-frameworks)
 - [Other Stuff](#other-stuff)
 
-# Web Dev Fundamentals
+# Fundamentals
 
 - [MDN Docs](https://developer.mozilla.org/en-US/docs)
 
@@ -104,7 +108,25 @@
 
 - [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-# Web Technologies
+# Programming Languages
+
+## Javascript
+
+- [Javascript Reference](https://github.com/millionhz/reference#javascript)
+
+## Node
+
+- [Node Reference](https://nodejs.org/api/)
+
+- [Node Built-In Globals](https://nodejs.org/en/knowledge/getting-started/globals-in-node-js/)
+
+## Typescript
+
+- [Typescript Docs](https://www.typescriptlang.org/docs/)
+
+- [`tsconfig`](https://www.typescriptlang.org/tsconfig)
+
+# Technologies
 
 ## Firebase
 
