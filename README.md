@@ -12,14 +12,13 @@
   - [Javascript](#javascript)
   - [Node](#node)
   - [Typescript](#typescript)
-- [Technologies](#technologies)
-  - [Firebase](#firebase)
-- [General Node Modules](#general-node-modules)
+- [Node Modules](#node-modules)
   - [Package Managers](#package-managers)
   - [Linting \& Formatting](#linting--formatting)
   - [Other Modules](#other-modules)
 - [Backend Frameworks](#backend-frameworks)
   - [Express JS](#express-js)
+  - [Firebase](#firebase)
 - [Backend Modules](#backend-modules)
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
@@ -30,6 +29,7 @@
   - [ReactJs](#reactjs)
   - [Redux](#redux)
 - [Frontend Modules](#frontend-modules)
+  - [ReactJs Modules](#reactjs-modules)
   - [Content Delivery](#content-delivery)
   - [Bundler](#bundler)
   - [Other Modules](#other-modules-2)
@@ -128,13 +128,7 @@
 
 - [Learn TypeScript – Full Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)
 
-# Technologies
-
-## Firebase
-
-- [Docs](https://firebase.google.com/docs)
-
-# General Node Modules
+# Node Modules
 
 ## Package Managers
 
@@ -171,11 +165,15 @@
 
 - [Middleware](https://expressjs.com/en/resources/middleware.html)
 
--  [Utility Functions](https://expressjs.com/en/resources/utils.html) (low level)
+- [Utility Functions](https://expressjs.com/en/resources/utils.html) (low level)
 
 - [`express-generator`](https://expressjs.com/en/starter/generator.html)
 
 - [Node.js and Express.js Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
+
+## Firebase
+
+- [Docs](https://firebase.google.com/docs)
 
 # Backend Modules
 
@@ -207,7 +205,6 @@
 
 - [supertest](https://jestjs.io/)
 
-
 ## Other Modules
 
 | Module                                                                              | Functionality                        |
@@ -235,7 +232,11 @@
 
 - [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
-- Important Concepts
+- [ReactJs Modules](#reactjs-modules)
+
+- [awesome-react - enaqx](https://github.com/enaqx/awesome-react)
+
+<!-- - Important Concepts
 
   - Functional & Class Components
   - Controlled & Uncontrolled Components
@@ -245,18 +246,9 @@
   - React Hooks & Custom Hooks
   - Referencial equality
   - Debouncing
-  - `dangerouslySetInnerHTML` & XSS Attacks
-
-- Modules
-
-  - [`create-react-app`](https://create-react-app.dev/)
-  - [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
-  - [React Router](https://reactrouter.com/)
-  - [Storybook](https://storybook.js.org/)
-  - [React Final Form](https://final-form.org/react)
+  - `dangerouslySetInnerHTML` & XSS Attacks -->
 
 - [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
-
 
 ## [Redux](https://redux.js.org/)
 
@@ -265,6 +257,14 @@
 - [React Redux](https://react-redux.js.org/)
 
 # Frontend Modules
+
+## ReactJs Modules
+
+- [`create-react-app`](https://create-react-app.dev/)
+- [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- [React Router](https://reactrouter.com/)
+- [Storybook](https://storybook.js.org/)
+- [React Final Form](https://final-form.org/react)
 
 ## Content Delivery
 
