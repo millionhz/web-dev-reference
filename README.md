@@ -228,7 +228,7 @@
 
 ## [ReactJs](https://reactjs.org/)
 
-- [Docs](https://reactjs.org/docs/getting-started.html)
+- [Docs](https://react.dev/)
 
 - [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
