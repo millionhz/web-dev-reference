@@ -12,10 +12,17 @@
   - [Javascript](#javascript)
   - [Node](#node)
   - [Typescript](#typescript)
-- [Node Modules](#node-modules)
-  - [Package Managers](#package-managers)
-  - [Linting \& Formatting](#linting--formatting)
+- [Frontend Frameworks](#frontend-frameworks)
+  - [ReactJs](#reactjs)
+  - [Redux](#redux)
+- [Frontend Modules](#frontend-modules)
+  - [ReactJs Modules](#reactjs-modules)
+  - [Content Delivery](#content-delivery)
+  - [Bundler](#bundler)
   - [Other Modules](#other-modules)
+- [UI Libraries](#ui-libraries)
+  - [UI Component Libraries](#ui-component-libraries)
+  - [CSS Frameworks](#css-frameworks)
 - [Backend Frameworks](#backend-frameworks)
   - [Express JS](#express-js)
   - [Firebase](#firebase)
@@ -25,17 +32,9 @@
   - [Authentication](#authentication)
   - [Testing](#testing)
   - [Other Modules](#other-modules-1)
-- [Frontend Frameworks](#frontend-frameworks)
-  - [ReactJs](#reactjs)
-  - [Redux](#redux)
-- [Frontend Modules](#frontend-modules)
-  - [ReactJs Modules](#reactjs-modules)
-  - [Content Delivery](#content-delivery)
-  - [Bundler](#bundler)
-  - [Other Modules](#other-modules-2)
-- [UI Libraries](#ui-libraries)
-  - [UI Component Libraries](#ui-component-libraries)
-  - [CSS Frameworks](#css-frameworks)
+- [Node Modules](#node-modules)
+  - [Package Managers](#package-managers)
+  - [Linting \& Formatting](#linting--formatting)
 - [Other Stuff](#other-stuff)
 
 # Fundamentals
@@ -128,102 +127,6 @@
 
 - [Learn TypeScript – Full Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)
 
-# Node Modules
-
-## Package Managers
-
-- [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
-
-- [npm](https://docs.npmjs.com/)
-
-- [yarn](https://yarnpkg.com/)
-
-## Linting & Formatting
-
-- [prettier](https://prettier.io/)
-
-- [eslint](https://eslint.org/)
-
-- [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
-
-- [airbnb eslint config](https://www.npmjs.com/package/eslint-config-airbnb)
-
-## Other Modules
-
-| Module                       | Functionality |
-| ---------------------------- | ------------- |
-| [babel](https://babeljs.io/) | Transpiling   |
-| loadsh                       |               |
-
-# Backend Frameworks
-
-## [Express JS](https://expressjs.com/)
-
-- [Reference](https://expressjs.com/en/5x/api.html)
-
-- [Basics](https://expressjs.com/en/starter/installing.html), [Guides](https://expressjs.com/en/guide/routing.html) and [Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-
-- [Middleware](https://expressjs.com/en/resources/middleware.html)
-
-- [Utility Functions](https://expressjs.com/en/resources/utils.html) (low level)
-
-- [`express-generator`](https://expressjs.com/en/starter/generator.html)
-
-- [Node.js and Express.js Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
-
-## Firebase
-
-- [Docs](https://firebase.google.com/docs)
-
-# Backend Modules
-
-## Template Engines
-
-- [EJS](https://ejs.co/#docs)
-
-- [Handlebars](https://handlebarsjs.com/)
-
-## Database Utils
-
-- [Mongoose](https://mongoosejs.com/docs/guides.html) (MongoDB)
-
-## Authentication
-
-- [`express-session`](https://www.npmjs.com/package/express-session)
-
-- [Passport](https://www.npmjs.com/package/passport)
-
-  - [Docs](https://github.com/jwalton/passport-api-docs)
-
-  - [Tutorial](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
-
-- [`connect-ensure-login`](https://www.npmjs.com/package/connect-ensure-login)
-
-## Testing
-
-- [jest](https://jestjs.io/)
-
-- [supertest](https://jestjs.io/)
-
-## Other Modules
-
-| Module                                                                              | Functionality                        |
-| ----------------------------------------------------------------------------------- | ------------------------------------ |
-| [http-errors](https://www.npmjs.com/package/http-errors)                            | http error utility for express       |
-| [debug](https://www.npmjs.com/package/debug)                                        | debug logging utility                |
-| [morgan](https://expressjs.com/en/resources/middleware/morgan.html)                 | http request logger                  |
-| [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html)   | cookie parsing utility for express   |
-| [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions                |
-| [multer](https://expressjs.com/en/resources/middleware/multer.html)                 | blob form data                       |
-| [validator](https://www.npmjs.com/package/validator)                                | input validation                     |
-| [nodemon](https://www.npmjs.com/package/nodemon)                                    | live reload for node                 |
-| [concurrently](https://www.npmjs.com/package/concurrently)                          | run commands concurrently            |
-| [dotenv](https://www.npmjs.com/package/dotenv)                                      | environment variable utility         |
-| [cross-env](https://www.npmjs.com/package/cross-env)                                | environment variable utility for cli |
-
-- Also see:
-  - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
-
 # Frontend Frameworks
 
 ## [ReactJs](https://reactjs.org/)
@@ -280,13 +183,11 @@
 
 ## Other Modules
 
-| Module                                       | Functionality      |
-| -------------------------------------------- | ------------------ |
-| [axios](https://axios-http.com/docs/intro)   | http client        |
-| [lodash](https://lodash.com/docs/4.17.15)    | utility functions  |
-| [final form](https://final-form.org)         | form utility       |
-| [faker.js](https://fakerjs.dev/)             | Placeholder data   |
-| [serve](https://www.npmjs.com/package/serve) | serve static files |
+- [axios](https://axios-http.com/docs/intro)
+- [lodash](https://lodash.com/docs/4.17.15)
+- [final form](https://final-form.org)
+- [faker.js](https://fakerjs.dev/)
+- [serve](https://www.npmjs.com/package/serve)
 
 # UI Libraries
 
@@ -307,6 +208,93 @@
   - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 
   - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
+
+# Backend Frameworks
+
+## [Express JS](https://expressjs.com/)
+
+- [Reference](https://expressjs.com/en/5x/api.html)
+
+- [Basics](https://expressjs.com/en/starter/installing.html), [Guides](https://expressjs.com/en/guide/routing.html) and [Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+
+- [Middleware](https://expressjs.com/en/resources/middleware.html)
+
+- [Utility Functions](https://expressjs.com/en/resources/utils.html) (low level)
+
+- [`express-generator`](https://expressjs.com/en/starter/generator.html)
+
+- [Node.js and Express.js Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
+
+## Firebase
+
+- [Docs](https://firebase.google.com/docs)
+
+# Backend Modules
+
+## Template Engines
+
+- [EJS](https://ejs.co/#docs)
+
+- [Handlebars](https://handlebarsjs.com/)
+
+## Database Utils
+
+- [Mongoose](https://mongoosejs.com/docs/guides.html) (MongoDB)
+
+## Authentication
+
+- [`express-session`](https://www.npmjs.com/package/express-session)
+
+- [Passport](https://www.npmjs.com/package/passport)
+
+  - [Docs](https://github.com/jwalton/passport-api-docs)
+
+  - [Tutorial](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
+
+- [`connect-ensure-login`](https://www.npmjs.com/package/connect-ensure-login)
+
+## Testing
+
+- [jest](https://jestjs.io/)
+
+- [supertest](https://jestjs.io/)
+
+## Other Modules
+
+- [http-errors](https://www.npmjs.com/package/http-errors)
+- [debug](https://www.npmjs.com/package/debug)
+- [morgan](https://expressjs.com/en/resources/middleware/morgan.html)
+- [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html)
+- [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html)
+- [multer](https://expressjs.com/en/resources/middleware/multer.html)
+- [validator](https://www.npmjs.com/package/validator)
+- [nodemon](https://www.npmjs.com/package/nodemon)
+- [concurrently](https://www.npmjs.com/package/concurrently)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [cross-env](https://www.npmjs.com/package/cross-env)
+
+- Also see:
+  - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
+
+# Node Modules
+
+## Package Managers
+
+- [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
+
+- [npm](https://docs.npmjs.com/)
+
+- [yarn](https://yarnpkg.com/)
+
+## Linting & Formatting
+
+- [prettier](https://prettier.io/)
+
+- [eslint](https://eslint.org/)
+
+- [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
+
+- [airbnb eslint config](https://www.npmjs.com/package/eslint-config-airbnb)
 
 # Other Stuff
 
