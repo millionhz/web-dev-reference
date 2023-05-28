@@ -26,6 +26,7 @@
 - [Backend Frameworks](#backend-frameworks)
   - [Express JS](#express-js)
   - [Firebase](#firebase)
+  - [FastAPI](#fastapi)
 - [Backend Modules](#backend-modules)
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
@@ -229,6 +230,10 @@
 
 - [Docs](https://firebase.google.com/docs)
 
+## FastAPI
+
+- [Docs](https://fastapi.tiangolo.com/lo/)
+
 # Backend Modules
 
 ## Template Engines
@@ -250,8 +255,6 @@
   - [Docs](https://github.com/jwalton/passport-api-docs)
 
   - [Tutorial](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
-
-- [`connect-ensure-login`](https://www.npmjs.com/package/connect-ensure-login)
 
 ## Testing
 
